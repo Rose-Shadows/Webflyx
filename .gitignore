@@ -13,3 +13,13 @@ hello.txt
 titles.md
 webflyx/
 worldbanc/
+.bootdev.yaml
+.gitconfig
+.landscape/
+.local/
+.motd_shown
+.profile
+.sudo_as_admin_successful
+.vscode-server/
+go
+root
